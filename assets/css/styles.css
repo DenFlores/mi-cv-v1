@@ -1,0 +1,230 @@
+body{
+    background-color: black;
+
+}
+.margen{
+    width: 1346px;
+    height: 850px;
+}
+.descripcion{
+    width: 300px;
+    height: 60px;
+    background-color: rgb(21, 177, 156);
+    float: left;
+    text-align: center;
+    font-family: Kadwa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 60px;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+    
+}
+.estudios{
+    width: 350px;
+    height: 60px;
+    background-color: rgb(111, 172, 241);
+    float: left;
+    text-align: center;
+
+    font-family: Kadwa;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 60px;
+    letter-spacing: 0.3em;
+    
+    color: #000000;
+    
+}
+.experiencia{
+    width: 350px;
+    height: 60px; 
+    background-color: rgb(119, 201, 255);
+    float: left;
+    text-align:center;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 60px;
+
+letter-spacing: 0.3em;
+
+color: #000000;
+
+
+}
+.portafolio{
+    width: 346px;
+    height: 60px;
+    background-color: rgb(24, 184, 248);
+    float: left;
+    text-align: center;
+    font-family: Kadwa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+}
+.foto{
+    width: 550px;
+    height: 260px;
+   background: url(https://png.pngtree.com/thumb_back/fh260/background/20201102/pngtree-blue-abstract-network-technology-wallpaper-image_454463.jpg) no-repeat;
+   float: left;
+   
+   
+   
+   
+}
+.imgredonda{
+    width: 258px;
+    height: 258px;
+    border-radius: 360px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.nombre{
+    width: 796px;
+    height: 120px;
+   
+    background-color: rgb(13, 23, 37);
+    float: left;
+    color: rgb(205, 167, 223);
+    font-family: Lateef;
+    font-size: 80px;
+    line-height: 150px;
+
+color: #FFFFFF;
+
+
+}
+
+.desc{
+position: absolute;
+width: 796px;
+height: 50px;
+left: 559px;
+top: 189px;
+background-color: rgb(10, 10, 26);
+
+font-family: Kadwa;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 50px;
+letter-spacing: 0.3em;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.frase{
+    position: absolute;
+width: 796px;
+height: 90px;
+left: 559px;
+top: 239px;
+background: #6D8DE0;
+
+font-family: cursive;
+font-style: normal;
+
+font-size: 15px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.3em;
+float: none;
+
+color: #0a0707;
+}
+.hab{
+    width: 850px;
+    height: 400px;
+    top: 200px;
+    background-color: rgb(16, 16, 88);
+    
+font-style: italic;
+font-size: 36px;
+line-height: 72px;
+letter-spacing: 0.3em;
+color: rgb(240, 236, 219);
+float: left;
+}
+
+.fondo1{
+    width: 496px;
+    height: 550px;
+    background-color: #1D2674;
+    float: left;
+}
+.form{
+    position: absolute;
+width: 430.33px;
+height: 500px;
+left: 892px;
+top: 355px;
+
+background: #047178;
+float: left;
+    
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.seccion{
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.consejo{
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.pregunta{
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.enviar{
+    right: 50px;
+    font-size: 60px;
+}
+.redes{
+    position: absolute;
+    width: 850px;
+    height: 178px;
+    background-color: rgb(5, 15, 36);
+    top: 700px;
+    
+    float: left;
+    font-family: Codystar;
+font-style:italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 17px;
+letter-spacing: 0.3em;
+text-align: center;
+color: #FFFFFF;
+}
+.red{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    left: 58px;
+    top: 900px;
+    
+}

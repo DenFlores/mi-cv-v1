@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(14, 45, 85);
+}
+h1{
+    font-family: Junge;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 58px;
+letter-spacing: 0.3em;
+
+color: #FFFFFF;
+}
+p{font-family: Junge;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 36px;
+    letter-spacing: 0.3em;
+    
+    color: #FFFFFF;
+    
+    
+}

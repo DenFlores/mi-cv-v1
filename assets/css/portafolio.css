@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(177, 70, 97);
+}
+h1{
+    font-family: Junge;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 78px;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #FFFFFF;
+
+}
+
+.img{
+    width: 200px;
+    height: 80px;
+    border-radius: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fotos{
+    
+    width: 450px;
+    height: 380px;
+    border-radius: 10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    letter-spacing: 3em;
+
+}

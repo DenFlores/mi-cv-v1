@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(110, 189, 241);
+}
+h1{
+    color: rgb(64, 46, 170);
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    font-style: normal;
+}
+p{
+    font-family: cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 60px;
+letter-spacing: 0.3em;
+
+
+color: #FFFFFF;
+}
